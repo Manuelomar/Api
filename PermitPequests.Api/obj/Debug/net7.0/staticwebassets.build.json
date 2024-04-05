@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OVYgvqKOkBkMZxNYABbO0NRe0QvVCU7Fau0L3o2Gfac=",
+  "Source": "PermitPequests.Api",
+  "BasePath": "_content/PermitPequests.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

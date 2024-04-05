@@ -1,0 +1,12 @@
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\bin\Debug\net7.0\PermitPequests.Domain.deps.json
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\bin\Debug\net7.0\PermitPequests.Domain.dll
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\bin\Debug\net7.0\PermitPequests.Domain.pdb
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\obj\Debug\net7.0\PermitPequests.Domain.csproj.AssemblyReference.cache
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\obj\Debug\net7.0\PermitPequests.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\obj\Debug\net7.0\PermitPequests.Domain.AssemblyInfoInputs.cache
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\obj\Debug\net7.0\PermitPequests.Domain.AssemblyInfo.cs
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\obj\Debug\net7.0\PermitPequests.Domain.csproj.CoreCompileInputs.cache
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\obj\Debug\net7.0\PermitPequests.Domain.dll
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\obj\Debug\net7.0\refint\PermitPequests.Domain.dll
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\obj\Debug\net7.0\PermitPequests.Domain.pdb
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Domain\obj\Debug\net7.0\ref\PermitPequests.Domain.dll

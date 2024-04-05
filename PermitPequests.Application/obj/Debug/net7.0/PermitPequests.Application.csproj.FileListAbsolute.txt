@@ -1,0 +1,15 @@
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\bin\Debug\net7.0\PermitPequests.Application.deps.json
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\bin\Debug\net7.0\PermitPequests.Application.dll
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\bin\Debug\net7.0\PermitPequests.Application.pdb
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\bin\Debug\net7.0\PermitPequests.Domain.dll
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\bin\Debug\net7.0\PermitPequests.Domain.pdb
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\obj\Debug\net7.0\PermitPequests.Application.csproj.AssemblyReference.cache
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\obj\Debug\net7.0\PermitPequests.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\obj\Debug\net7.0\PermitPequests.Application.AssemblyInfoInputs.cache
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\obj\Debug\net7.0\PermitPequests.Application.AssemblyInfo.cs
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\obj\Debug\net7.0\PermitPequests.Application.csproj.CoreCompileInputs.cache
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\obj\Debug\net7.0\PermitPequests.Application.csproj.CopyComplete
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\obj\Debug\net7.0\PermitPequests.Application.dll
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\obj\Debug\net7.0\refint\PermitPequests.Application.dll
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\obj\Debug\net7.0\PermitPequests.Application.pdb
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Application\obj\Debug\net7.0\ref\PermitPequests.Application.dll
