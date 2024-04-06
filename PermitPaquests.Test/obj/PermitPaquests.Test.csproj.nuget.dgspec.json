@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPaquests.Test\\PermitPaquests.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPaquests.Test\\PermitPaquests.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPaquests.Test\\PermitPaquests.Test.csproj",
+        "projectName": "PermitPaquests.Test",
+        "projectPath": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPaquests.Test\\PermitPaquests.Test.csproj",
+        "packagesPath": "C:\\Users\\omp12\\.nuget\\packages\\",
+        "outputPath": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPaquests.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omp12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://solvexdominicana.pkgs.visualstudio.com/_packaging/SolvexLibraries/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Application\\PermitPequests.Application.csproj": {
+                "projectPath": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Application\\PermitPequests.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Application\\PermitPequests.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Application\\PermitPequests.Application.csproj",
+        "projectName": "PermitPequests.Application",
+        "projectPath": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Application\\PermitPequests.Application.csproj",
+        "packagesPath": "C:\\Users\\omp12\\.nuget\\packages\\",
+        "outputPath": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omp12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://solvexdominicana.pkgs.visualstudio.com/_packaging/SolvexLibraries/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Domain\\PermitPequests.Domain.csproj": {
+                "projectPath": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Domain\\PermitPequests.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Domain\\PermitPequests.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Domain\\PermitPequests.Domain.csproj",
+        "projectName": "PermitPequests.Domain",
+        "projectPath": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Domain\\PermitPequests.Domain.csproj",
+        "packagesPath": "C:\\Users\\omp12\\.nuget\\packages\\",
+        "outputPath": "C:\\Solvex\\Solicitudes de permisos\\Api\\PermitPequests.Api\\PermitPequests.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omp12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://solvexdominicana.pkgs.visualstudio.com/_packaging/SolvexLibraries/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

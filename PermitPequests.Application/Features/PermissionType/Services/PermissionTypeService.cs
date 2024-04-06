@@ -11,7 +11,7 @@ using Entity = PermitPequests.Domain.Entities.PermissionType;
 
 namespace PermitPequests.Application.Features.PermissionType.Services
 {
-    internal class PermissionTypeService : IPermissionTypeService
+    public class PermissionTypeService : IPermissionTypeService
     {
         private readonly IBaseRepository<Entity> _permissionRepository;
         private readonly IMapper _mapper;

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PermitPequests.Application.Common.PaginationResponse
+﻿namespace PermitPequests.Application.Common.PaginationResponse
 {
     public class Paged<T> where T : class
     {

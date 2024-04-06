@@ -105,3 +105,5 @@ C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Api\bin\
 C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Api\bin\Debug\net7.0\PermitPequests.Application.pdb
 C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Api\bin\Debug\net7.0\PermitPequests.Infraestructure.pdb
 C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Api\bin\Debug\net7.0\PermitPequests.Domain.pdb
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Api\bin\Debug\net7.0\Castle.Core.dll
+C:\Solvex\Solicitudes de permisos\Api\PermitPequests.Api\PermitPequests.Api\bin\Debug\net7.0\Moq.dll
